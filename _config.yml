@@ -3,11 +3,13 @@
 # ----------------------- #
 
 url: http://freespaceaniket.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Digital Nomad
+subtitle: ~ Just Another Blog 
+author: Aniket Maithani
 simple_search: https://www.google.com/search
 description:
+  The following contains my experiments with technology, my life lessons 
+  and my perspective about life. 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
